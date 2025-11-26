@@ -16,4 +16,4 @@ pip install reportlab svglib datetime
 ```sh
 python cv_generator.py
 ```
-4. Output will be saved as `Sample_CV.pdf` in the same folder.
+4. Output will be saved as `CV - Name Surname - Apr 2025.pdf` in the same folder.
