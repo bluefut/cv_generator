@@ -2,7 +2,7 @@
 
 Install requirements:
 ```sh
-pip install reportlab svglib
+pip install reportlab svglib datetime
 ```
 
 ## Usage
